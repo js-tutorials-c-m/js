@@ -1,6 +1,6 @@
 # Java script excerisizes
 
-Guidlines
+## Guidelines
 
 - All functions shuld have unit test cases
 - each problem/issue and it's test cases should contain in on folder with name in format ( functionName-issuenumber )
