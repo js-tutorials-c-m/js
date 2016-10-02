@@ -12,3 +12,4 @@
 ## Running test cases
 
 - In project root directrory open teremenal or cmd and type `npm test`
+- Your spec file should end with .spec.js
