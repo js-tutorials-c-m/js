@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/sagarrayudu/js.svg?branch=master)](https://travis-ci.org/sagarrayudu/js)
 # JavaScript exercises
 
+[![Join the chat at https://gitter.im/practice-js/Lobby](https://badges.gitter.im/practice-js/Lobby.svg)](https://gitter.im/practice-js/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Guidelines
 
 - All functions shuld have unit test cases
