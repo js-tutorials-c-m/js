@@ -8,3 +8,7 @@
 - Each individual should work on a branch and crete a pull request to master
 - Assign pull request to some one and in your team and and me.
   ( so there will be two reviewers )
+
+## Running test cases
+
+- In project root directrory open teremenal or cmd and type `npm test`
