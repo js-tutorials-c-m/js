@@ -1,4 +1,4 @@
-# Java script excerisizes
+# JavaScript exercises
 
 ## Guidelines
 
