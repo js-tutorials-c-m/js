@@ -2,9 +2,9 @@ var Code = require('code'),
     expect = Code.expect,
     isEven = require('./is-even.js');
 
-describe('Test weather the function is prime nor not' , function () {
+describe('Example for reference' , function () {
 
-  it('Should return true of it is prie'  , function () {
+  it('should able to test an even number'  , function () {
   expect(isEven(5)).to.be.equal(false);
   expect(isEven(6)).to.be.equal(true);
 } );
