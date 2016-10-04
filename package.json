@@ -4,7 +4,7 @@
   "description": "## Guidelines",
   "main": "index.js",
   "scripts": {
-    "test": "mocha src/**/*.js"
+    "test": "mocha src/**/test.js"
   },
   "repository": {
     "type": "git",
