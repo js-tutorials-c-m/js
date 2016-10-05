@@ -2,9 +2,9 @@
   "name": "js",
   "version": "1.0.0",
   "description": "## Guidelines",
-  "main": "square.js",
+  "main": "index.js",
   "scripts": {
-    "test": "mocha src/**/*.js"
+    "test": "mocha src/**/*.spec.js"
   },
   "repository": {
     "type": "git",
