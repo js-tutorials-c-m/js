@@ -1,12 +1,7 @@
 // JavaScript Document
-function rectangle(){
-var length = 4;
-var breadth = 5;
- area = length * breadth;
-console.log(area);
- return area;	
-};
-rectangle();
+function rectangle(length,breadth){
+ return length * breadth;
+ };
 module.exports = rectangle;
 
 	

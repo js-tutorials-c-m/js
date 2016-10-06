@@ -1,12 +1,16 @@
 // JavaScript Document
-Code = require('code'),
-expect = Code.expect,
-rectangle = require('./rectangle.js');
-describe('area of rectangle',function() {
-	it('Should calculate te area of rectangle',function(){
-		expect(rectangle([4,5])).to.be.equal(20);
+const Code = require('code');
+const expect = Code.expect;
+const rectangle = require('./rectangle.js');
+    
+
+	
+describe('rectangle function',function(){
+	
+	it('do rectangle',function(){
+		expect(rectangle(1,2)).equal(2);
+		expect(rectangle(4,10)).equal(40);
+		expect(rectangle(2,4)).equal(8);
 	});
-	it('Should return a number',function(){
-		expect(typeof rectangle([4,5])).to.be.equal("number");
-      });
+	
 });
