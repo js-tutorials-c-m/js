@@ -1,9 +1,4 @@
-function distanceTravel(){
-	var velocity=8,
-	time=20,
-	distance=velocity*time;
-		console.log(distance);
-		return distance;
+function distanceTravel(velocity,time){
+		return velocity*time;
 	}
-	distanceTravel();
 	module.exports = distanceTravel;
