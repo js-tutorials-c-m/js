@@ -7,11 +7,9 @@ describe('computes sphere area' , function () {
 	
 	it('value of sphere_area'  , function () {
 		expect(sphereArea(3)).to.be.equal(113.04);
-		
-    });
-	
-	it('Should return a number',function(){
-		expect(typeof sphereArea(4)).to.be.equal("number");
+		expect(sphereArea(4)).to.be.equal(200.96);
+		expect(sphereArea(2)).to.be.equal(50.24);
+		expect(sphereArea(1)).to.be.equal(12.56);
      });		
 })
 
